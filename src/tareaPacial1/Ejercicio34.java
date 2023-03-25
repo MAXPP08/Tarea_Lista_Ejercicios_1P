@@ -23,7 +23,7 @@ public class Ejercicio34 extends JFrame{
     
     public Ejercicio34 (){
         // Configurar la ventana
-        setTitle("Comprobar si son iguales");
+        setTitle("Hora válida");
         setSize(400, 250);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);

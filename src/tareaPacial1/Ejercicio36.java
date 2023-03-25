@@ -74,12 +74,7 @@ public class Ejercicio36 extends JFrame{
         add(panel);
     }
     
-    /**
-     * Método que convierte una calificación numérica a alfabética
-     * 
-     * @param calificacion Calificación numérica
-     * @return Calificación alfabética
-     */
+    
     private String convertirCalificacion(String calificacion) {
         int calificacionNumerica = Integer.parseInt(calificacion);
         
